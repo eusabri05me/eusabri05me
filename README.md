@@ -27,4 +27,4 @@ Software Engineering student, focused on **Backend Development**. I am passionat
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/sabrina-soares-4128433a7/)
+[![LinkedIn]([https://www.linkedin.com/in/sabrina-soares-4128433a7/](https://www.linkedin.com/in/sabrina-soares-4128433a7/))
