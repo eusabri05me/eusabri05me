@@ -1,18 +1,30 @@
-Olá, eu sou a Sabrina! 👋
+# Hi there, I'm Sabrina! 👋
 
-Estudante de Engenharia de Software focada em desenvolvimento Backend com Python e JS. 
-Atualmente aprofundando conhecimentos em Django e arquitetura de sistemas.
-<!--
-**eusabri05me/eusabri05me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student, focused on **Backend Development**. I am passionate about building efficient systems and exploring the Python ecosystem.
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, JS (Core, OOP)
+- **Frameworks:** Django, Flask
+- **Databases:** PostgreSQL, SQLite, SQLAlchemy (ORM)
+- **Tools:** Git, GitHub, Postman, Docker (learning)
+
+---
+
+### 🚀 Featured Projects
+
+- **Task Management API:** A robust backend built with Flask, featuring full CRUD operations and database integration.
+- **Django Architecture Lab:** Exploring Django Models, Templates, and project structuring for scalable applications.
+
+---
+
+### 📈 Current Focus
+
+- 🐍 Mastering **Django** advanced features.
+- 🇬🇧 Improving my **English** for professional environments.
+- 📚 Studying Software Architecture and clean code principles.
+
+---
+
+### 📫 Connect with me:
+[![LinkedIn](https://www.linkedin.com/in/sabrina-soares-4128433a7/)
