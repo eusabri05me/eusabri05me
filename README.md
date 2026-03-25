@@ -1,5 +1,7 @@
-## Hi there 👋
+Olá, eu sou a Sabrina! 👋
 
+Estudante de Engenharia de Software focada em desenvolvimento Backend com Python e JS. 
+Atualmente aprofundando conhecimentos em Django e arquitetura de sistemas.
 <!--
 **eusabri05me/eusabri05me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
