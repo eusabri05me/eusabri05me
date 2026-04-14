@@ -20,8 +20,8 @@ Software Engineering student, focused on **Backend Development**.
 
 ### 📈 Current Focus
 
-- 🐍 Mastering **Django** advanced features.
-- 🇬🇧 Improving my **English** for professional environments.
+-  Mastering **Django** advanced features.
+-  Improving my **English** for professional environments.
 - 📚 Studying Software Architecture and clean code principles.
 
 ---
