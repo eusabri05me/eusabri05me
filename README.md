@@ -4,7 +4,7 @@ Software Engineering student, focused on **Backend Development**. I am passionat
 
 ### 🛠️ My Tech Stack
 
-- **Languages:** Python, JS (Core, OOP)
+- **Languages:** Python, JS (Core, OOP),PHP
 - **Frameworks:** Django, Flask
 - **Databases:** PostgreSQL, SQLite, SQLAlchemy (ORM)
 - **Tools:** Git, GitHub, Postman, Docker (learning)
