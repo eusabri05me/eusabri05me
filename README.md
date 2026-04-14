@@ -1,6 +1,6 @@
 # Hi there, I'm Sabrina! 👋
 
-Software Engineering student, focused on **Backend Development**. I am passionate about building efficient systems and exploring the Python ecosystem.
+Software Engineering student, focused on **Backend Development**. 
 
 ### 🛠️ My Tech Stack
 
